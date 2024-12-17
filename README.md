@@ -34,7 +34,7 @@ cd
 ```
 write <file_name>.raw
 ```
-## use ctrl+h to show hidden files  
+## ** use ctrl+h to show hidden files  **
 ## the file will be saved in .xschem folder in HOME dir   
 
 ## in GAW open file - file location - open .raw file  
