@@ -30,7 +30,7 @@ make
 sudo checkinstall --default --pkgname=xschem-gaw --pkgversion=0.1
 cd
 ```
-## while saving file use .raw extension
+## while simulating in xschem NGSPICE use follwing in cmd prompt of NGSPICE
 ```
 write <file_name>.raw
 ```
